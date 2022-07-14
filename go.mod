@@ -107,7 +107,7 @@ require (
 	github.com/openconfig/gnmi v0.0.0-20180912164834-33a1865c3029
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.4.5
-	github.com/openzipkin/zipkin-go v0.2.5
+	github.com/openzipkin/zipkin-go v0.4.0
 	github.com/pborman/ansi v1.0.0
 	github.com/pion/dtls/v2 v2.0.13
 	github.com/pkg/errors v0.9.1
